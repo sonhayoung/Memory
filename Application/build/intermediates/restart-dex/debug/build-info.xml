@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="hdpi"
+    format="7"
+    timestamp="7108472006884"
+    token="-1995379240954464974"
+    verifier="IMPLEMENTED_INTERFACES_CHANGE" >
+
+    <task
+        name="javac"
+        duration="2260" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="306" />
+    <task
+        name="verifier"
+        duration="187" />
+
+    <artifact
+        location="/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/appcreator13/Desktop/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
+
+    <build timestamp="5868950603084" >
+        <artifact
+            location="/Users/appcreator13/Desktop/Memory/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="7108472006884"
+        verifier="IMPLEMENTED_INTERFACES_CHANGE" >
+        <artifact
+            location="/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/appcreator13/Desktop/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

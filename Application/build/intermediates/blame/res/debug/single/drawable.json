@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/mercury.jpg",
-        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/mercury.jpg"
-    },
-    {
         "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
         "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_item_background_holo_dark.xml"
     },
@@ -16,28 +12,20 @@
         "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/family1.jpg",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/family1.jpg"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/friend5.jpeg",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/friend5.jpeg"
+    },
+    {
         "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
         "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_material.xml"
-    },
-    {
         "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
         "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/jupiter.jpg",
-        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/jupiter.jpg"
-    },
-    {
-        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_radio_material.xml"
     },
     {
         "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
@@ -56,12 +44,16 @@
         "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_seekbar_track_material.xml"
     },
     {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/family2.jpg",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/family2.jpg"
+    },
+    {
         "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
         "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/uranus.jpg",
-        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/uranus.jpg"
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/friend1.jpg",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/friend1.jpg"
     },
     {
         "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
@@ -84,44 +76,20 @@
         "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/venus.jpg",
         "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/venus.jpg"
     },
     {
-        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/friend4.jpeg",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/friend4.jpeg"
     },
     {
         "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
         "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_cab_background_top_material.xml"
     },
     {
         "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
@@ -136,8 +104,8 @@
         "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/neptune.jpg"
     },
     {
-        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/earth.jpg",
-        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/earth.jpg"
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/friend3.png",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/friend3.png"
     },
     {
         "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
@@ -148,11 +116,91 @@
         "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_indicator_material.xml"
-    },
-    {
         "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
         "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/teacher.jpeg",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/teacher.jpeg"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/mercury.jpg",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/mercury.jpg"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/jupiter.jpg",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/jupiter.jpg"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/friend2.jpg",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/friend2.jpg"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/friend8.jpg",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/friend8.jpg"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/uranus.jpg",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/uranus.jpg"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/friend6.jpeg",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/friend6.jpeg"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/friend7.png",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/friend7.png"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/earth.jpg",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/earth.jpg"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/friend9.jpg",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/src/main/res/drawable/friend9.jpg"
+    },
+    {
+        "merged": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/appcreator13/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_indicator_material.xml"
     }
 ]
